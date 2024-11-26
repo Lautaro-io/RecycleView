@@ -31,7 +31,7 @@ Este proyecto es un ejemplo básico de cómo implementar un **RecyclerView** en 
 
 ---
 ## Tecnologías usadas
-- **Kotlin
-- **RecyclerView
-- **ViewHolder Pattern
-- **Glide para la carga de imágenes.
+- **Kotlin**
+- **RecyclerView**
+- **ViewHolder Pattern**
+- **Glide para la carga de imágenes.**
