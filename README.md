@@ -22,7 +22,7 @@ Este proyecto es un ejemplo básico de cómo implementar un **RecyclerView** en 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/recyclerview-hero-list.git
+   git clone https://github.com/Lautaro-io/recyclerview-hero-list.git
 2. Ábrelo en Android Studio.
 
 3. Sincroniza las dependencias de Gradle.
